@@ -9,6 +9,8 @@ dependencies = [
     "python-dotenv>=1.0",
     "beautifulsoup4>=4.12",
     "requests>=2.31",
+    "jupyterlab>=4.6.3",
+    "ipykernel>=7.3.0",
 ]
 
 [dependency-groups]
